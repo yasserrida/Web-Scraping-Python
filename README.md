@@ -1,2 +1,2 @@
 # Web-Scraping-Python-
-Scrap Web site informations using Selenium and BeautifulSoup
+Scrap Web site data using Selenium and BeautifulSoup
